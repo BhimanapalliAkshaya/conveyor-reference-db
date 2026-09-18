@@ -1,0 +1,8 @@
+gradio
+fastapi
+uvicorn
+pydantic
+opencv-python-headless
+numpy
+pandas
+requests
